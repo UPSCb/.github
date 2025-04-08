@@ -33,6 +33,7 @@ If possible, please cite the tutorials if you (re-)use them for your teaching. M
 |Repository|Description|Manuscript|DOI|
 |---|---|---|---|
 |[aba](https://github.com/UPSCb/aba)|Photoperiodic control of seasonal growth is mediated by ABA acting on cell-cell communication||[![DOI](https://zenodo.org/badge/425881953.svg)](https://doi.org/10.5281/zenodo.15056621)|
+|[arabidopsis-floral-induction](https://github.com/UPSCb/arabidopsis-floral-induction)|Characterisation of metabolic changes associated with floral transition in Arabidopsis: variations in raffinose synthesis contribute to the determination of flowering time.||[![DOI](https://zenodo.org/badge/225628633.svg)](https://doi.org/10.5281/zenodo.15174456)|
 |[NorWood](https://github.com/UPSCb/NorWood)|||[![DOI](https://zenodo.org/badge/70584499.svg)](https://doi.org/10.5281/zenodo.15056625)|
 |[spruce-seasonal-needles](https://github.com/UPSCb/spruce-seasonal-needles)|||[![DOI](https://zenodo.org/badge/206827829.svg)](https://doi.org/10.5281/zenodo.4949894)|
 |[UPSCb](https://github.com/UPSCb/UPSCb)|The original repository of the UPSC Bioinformatics Facility, holds multiple published projects, their analyses and links to their datasets|TBA|[![DOI](https://zenodo.org/badge/74640960.svg)](https://doi.org/10.5281/zenodo.14002852)|
